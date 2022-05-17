@@ -1,0 +1,26 @@
+{
+  "name": "fizzbuzz",
+  "version": "1.0.0",
+  "description": "Ahora, eres parte del equipo de backend de [Visual Partner-Ship](https://twitter.com/visual_partner).",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./node_modules/.bin/jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gumodi35/FizzBuzz_Refactoring.git"
+  },
+  "keywords": [],
+  "author": "Gualberto Montiel Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gumodi35/FizzBuzz_Refactoring/issues"
+  },
+  "homepage": "https://github.com/gumodi35/FizzBuzz_Refactoring#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}

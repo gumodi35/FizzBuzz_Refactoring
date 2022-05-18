@@ -4,7 +4,7 @@
   "description": "Ahora, eres parte del equipo de backend de [Visual Partner-Ship](https://twitter.com/visual_partner).",
   "main": "index.js",
   "scripts": {
-    "test": "node ./node_modules/.bin/jest"
+    "test": "node --experimental-vm-modules ./node_modules/jest/bin/jest"
   },
   "repository": {
     "type": "git",
